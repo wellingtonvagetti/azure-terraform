@@ -4,8 +4,8 @@
 * Resource Group chamado *"RG-PRD01"* que será armazenado na Região "eastus2"
 
 * Criação de uma estrutura de Rede Virtual com os seguintes recursos: 
-  -  Virtual Network para VM Windows chamada *"vnet01"*
-  -  Virtual Network para VM Linux chamada *"vnet02"*
+  -  Virtual Network para VM Windows chamada *"vnet-prd01"*
+  -  Virtual Network para VM Linux chamada *"vnet-prd02"*
   -  Subnet para VM Windows chamada *"sub-prd01"*
   -  Subnet para VM Linux chamada *"sub-prd02"*
   -  Network security group chamado *"nsg-prd01"* para VM Windows
