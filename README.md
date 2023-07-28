@@ -1,6 +1,6 @@
-# Projeto *azure-terraform*
+# Arquitetura do Projeto *azure-terraform*
 
-<img src="Arquitetura.svg" alt="Launchstore"
+<img width='500' height='400' src="Arquitetura.png" alt="Arquitetura">
 
 ## Serão criados os seguintes recursos pelo terraform:
 * Resource Group chamado *"RG-PRD01"* que será armazenado na Região "eastus2"
